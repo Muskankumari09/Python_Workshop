@@ -1,0 +1,8 @@
+# Display name, age, and address
+name = "John Doe"
+age = 25
+address = "123 Main St, Springfield"
+
+print("Name:", name)
+print("Age:", age)
+print("Address:", address)
